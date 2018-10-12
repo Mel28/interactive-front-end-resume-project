@@ -323,7 +323,9 @@ footer .cv-pdf i:hover {
     color: #fafafa;
     border-left: 1px solid;
 }
-
+.timeline-item .link {
+    color: #FFF
+}
 .timeline-item p {
     padding: 0;
     margin: 0;
@@ -387,7 +389,7 @@ button[type="submit"] {
 }
 
 /*--------------------------------------------Map*/
-div#map {
+#map {
     min-height: 360px;
 }
 
