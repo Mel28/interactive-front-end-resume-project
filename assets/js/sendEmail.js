@@ -12,14 +12,3 @@ function sendMail(contactForm) {
             console.log("FAILED", error);
         });
 }
-
-
-// var template_params = {
-  // "from_name": "from_name_value",
- //  "from_email": "from_email_value",
- //  "project_request": "project_request_value"
-//};
-
-// var service_id = "default_service";
-// var template_id = "mel";
-// emailjs.send(service_id,template_id,template_params); 
